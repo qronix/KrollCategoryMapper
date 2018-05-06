@@ -1,0 +1,372 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+<xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="KrollDealerCatalogProductExport" msdata:UseCurrentLocale="true">
+<xs:complexType>
+<xs:choice minOccurs="0" maxOccurs="unbounded">
+<xs:element name="KrollDealerCatalogProductExport">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="SKU" type="xs:string" minOccurs="0" />
+<xs:element name="Manufacturer" type="xs:string" minOccurs="0" />
+<xs:element name="ProductTypeName" type="xs:string" minOccurs="0" />
+<xs:element name="ParentSKU" type="xs:string" minOccurs="0" />
+<xs:element name="ProductName" type="xs:string" minOccurs="0" />
+<xs:element name="ListPrice" type="xs:decimal" minOccurs="0" />
+<xs:element name="Cost" type="xs:decimal" minOccurs="0" />
+<xs:element name="MAPPrice" type="xs:decimal" minOccurs="0" />
+<xs:element name="UPCCode" type="xs:string" minOccurs="0" />
+<xs:element name="ManufacturerPartNumber" type="xs:string" minOccurs="0" />
+<xs:element name="ShippingWeight" type="xs:decimal" minOccurs="0" />
+<xs:element name="ShippingLength" type="xs:decimal" minOccurs="0" />
+<xs:element name="ShippingWidth" type="xs:decimal" minOccurs="0" />
+<xs:element name="ShippingHeight" type="xs:decimal" minOccurs="0" />
+<xs:element name="CanDropShip" type="xs:boolean" minOccurs="0" />
+<xs:element name="IsHazardousMaterial" type="xs:string" minOccurs="0" />
+<xs:element name="RestrictionAgreement" type="xs:string" minOccurs="0" />
+<xs:element name="CountryOfOrigin" type="xs:string" minOccurs="0" />
+<xs:element name="ShortDescription" type="xs:string" minOccurs="0" />
+<xs:element name="LongDescription" type="xs:string" minOccurs="0" />
+<xs:element name="ImageFileSmall" type="xs:string" minOccurs="0" />
+<xs:element name="SmallImageAlternateText" type="xs:string" minOccurs="0" />
+<xs:element name="ImageFileMedium" type="xs:string" minOccurs="0" />
+<xs:element name="MediumImageAlternateText" type="xs:string" minOccurs="0" />
+<xs:element name="QuantityOnHand" type="xs:int" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:choice>
+</xs:complexType>
+</xs:element>
+</xs:schema>
+<KrollDealerCatalogProductExport>
+<SKU>H147TPRU-S220X2</SKU>
+<Manufacturer>AKER LEATHER</Manufacturer>
+<ProductTypeName>Product Variation</ProductTypeName>
+<Category>Holsters</Category>
+<ParentSKU>AKER-H147</ParentSKU>
+<ProductName>Nightguard XL</ProductName>
+<ListPrice>74.5000000000</ListPrice>
+<Cost>45.0700000000</Cost>
+<MAPPrice>0.0000000000</MAPPrice>
+<UPCCode>666406102245</UPCCode>
+<ManufacturerPartNumber>H147TPRU-S220X2</ManufacturerPartNumber>
+<ShippingWeight>0.8000000000</ShippingWeight>
+<ShippingLength>0.0000000000</ShippingLength>
+<ShippingWidth>0.0000000000</ShippingWidth>
+<ShippingHeight>0.0000000000</ShippingHeight>
+<CanDropShip>false</CanDropShip>
+<IsHazardousMaterial>0</IsHazardousMaterial>
+<RestrictionAgreement>None</RestrictionAgreement>
+<CountryOfOrigin />
+<ShortDescription>Nightguard XL&lt;br&gt;Color: Tan&lt;br&gt;Gun: Sig Sauer 220 w/Surefire X300&lt;br&gt;Hand: Right</ShortDescription>
+<LongDescription>Nightguard™ XL &lt;Br&gt;&lt;Br&gt;
+&lt;ul&gt;&lt;li&gt;Developed with the help of a major police department and tested by agencies around the world, the Nightguard™ XL takes the comfort and concealability of the original Nightguard™ into a pancake style holster&lt;/li&gt;
+&lt;li&gt;Slides onto belts up to 1-3/4" and creates a low profile by spreading the holster pocket along the curve of your hip The holster mouth is reinforced with polymer and the strap is extra wide to prevent interfering with the trigger guard&lt;/li&gt;
+&lt;li&gt;Constructed from premium cowhide, the Nightguard™ XL rides high and close to the body, providing maximum comfort and concealment&lt;/li&gt;
+&lt;li&gt;Available for select weapon and light combinations&lt;/li&gt;&lt;/ul&gt;
+- See more at: http://akerleathercom/indexphp/off-duty-holsters/nightguard-holsters/147/nightguard-xlhtml#sthash1NVJwQGGdpuf</LongDescription>
+<ImageFileSmall>ProductImages/AKER/Small/AKER-H147.png</ImageFileSmall>
+<SmallImageAlternateText>Nightguard XL</SmallImageAlternateText>
+<ImageFileMedium>ProductImages/AKER/Medium/AKER-H147.png</ImageFileMedium>
+<MediumImageAlternateText>Nightguard XL</MediumImageAlternateText>
+<QuantityOnHand>0</QuantityOnHand>
+</KrollDealerCatalogProductExport>
+</KrollDealerCatalogProductExport>
+<KrollDealerCatalogProductExport>
+<SKU>FO-GL26NDRB</SKU>
+<Manufacturer>FOBUS</Manufacturer>
+<ProductTypeName>Product Variation</ProductTypeName>
+<Category>Concealment</Category>
+<ParentSKU>FO-Roto-Belt</ParentSKU>
+<ProductName>Rotating Belt Holder</ProductName>
+<ListPrice>44.9900000000</ListPrice>
+<Cost>29.4700000000</Cost>
+<MAPPrice>0.0000000000</MAPPrice>
+<UPCCode>676315001287</UPCCode>
+<ManufacturerPartNumber>GL26NDRB</ManufacturerPartNumber>
+<ShippingWeight>0.5000000000</ShippingWeight>
+<ShippingLength>0.0000000000</ShippingLength>
+<ShippingWidth>0.0000000000</ShippingWidth>
+<ShippingHeight>0.0000000000</ShippingHeight>
+<CanDropShip>false</CanDropShip>
+<IsHazardousMaterial>0</IsHazardousMaterial>
+<RestrictionAgreement>None</RestrictionAgreement>
+<CountryOfOrigin />
+<ShortDescription>Rotating Belt Holder&lt;br&gt;Gun Fit: Glock 26&lt;br&gt;Hand: Right</ShortDescription>
+<LongDescription>Holster Material - mold injected Polymer formula. Passive retention system - the holster mechanism acts like a spring on the trigger guard area and holds the gun firmly in place.</LongDescription>
+<ImageFileSmall>ProductImages/FO/Small/FO-Roto-Belt.png</ImageFileSmall>
+<SmallImageAlternateText>Rotating Belt Holder</SmallImageAlternateText>
+<ImageFileMedium>ProductImages/FO/Medium/FO-Roto-Belt.png</ImageFileMedium>
+<MediumImageAlternateText>Rotating Belt Holder</MediumImageAlternateText>
+<QuantityOnHand>1</QuantityOnHand>
+</KrollDealerCatalogProductExport>
+</KrollDealerCatalogProductExport>
+<KrollDealerCatalogProductExport>
+<SKU>XGO-1G11AQ</SKU>
+<Manufacturer>XGO</Manufacturer>
+<ProductTypeName>Parent Product</ProductTypeName>
+<ParentSKU />
+<Category>Long-sleeve</Category>
+<ParentSKU />
+<ProductName>Phase 1 Men's Long Sleeve Crew</ProductName>
+<ListPrice>39.0000000000</ListPrice>
+<Cost>19.5000000000</Cost>
+<MAPPrice>31.9900000000</MAPPrice>
+<UPCCode />
+<ManufacturerPartNumber />
+<ShippingWeight>1.0000000000</ShippingWeight>
+<ShippingLength>0.0000000000</ShippingLength>
+<ShippingWidth>0.0000000000</ShippingWidth>
+<ShippingHeight>0.0000000000</ShippingHeight>
+<CanDropShip>false</CanDropShip>
+<IsHazardousMaterial>0</IsHazardousMaterial>
+<RestrictionAgreement>None</RestrictionAgreement>
+<CountryOfOrigin />
+<ShortDescription>Phase 1 Men's Long Sleeve Crew</ShortDescription>
+<LongDescription />
+<ImageFileSmall>ProductImages/XGO/Small/XGO-1G11AQ.png</ImageFileSmall>
+<SmallImageAlternateText>Phase 1 Men's Long Sleeve Crew</SmallImageAlternateText>
+<ImageFileMedium>ProductImages/XGO/Medium/XGO-1G11AQ.png</ImageFileMedium>
+<MediumImageAlternateText>Phase 1 Men's Long Sleeve Crew</MediumImageAlternateText>
+<QuantityOnHand>0</QuantityOnHand>
+</KrollDealerCatalogProductExport>
+</KrollDealerCatalogProductExport>
+<KrollDealerCatalogProductExport>
+<SKU>0705-83-071</SKU>
+<Manufacturer>SAFARILAND</Manufacturer>
+<ProductTypeName>Product Variation</ProductTypeName>
+<Category>Holsters</Category>
+<ParentSKU>SF0705</ParentSKU>
+<ProductName>0705 SSIII Low-Ride Holster</ProductName>
+<ListPrice>205.0000000000</ListPrice>
+<Cost>125.9200000000</Cost>
+<MAPPrice>164.0000000000</MAPPrice>
+<UPCCode>781602025942</UPCCode>
+<ManufacturerPartNumber>0705-83-071</ManufacturerPartNumber>
+<ShippingWeight>1.0000000000</ShippingWeight>
+<ShippingLength>0.0000000000</ShippingLength>
+<ShippingWidth>0.0000000000</ShippingWidth>
+<ShippingHeight>0.0000000000</ShippingHeight>
+<CanDropShip>false</CanDropShip>
+<IsHazardousMaterial>0</IsHazardousMaterial>
+<RestrictionAgreement>None</RestrictionAgreement>
+<CountryOfOrigin />
+<ShortDescription>0705 SSIII Low-Ride Holster&lt;br&gt;Finish: Basket Weave Cordovan&lt;br&gt;Gun Fit: Glock 32 (4" bbl)&lt;br&gt;Hand: Right</ShortDescription>
+<LongDescription>The 0705 SSIII™ features a 1.5 in. (38 mm) belt drop and is classified as a Level III Retention™ holster. Its low-ride belt position and slightly-forward grip cant allow for a comfortable carry and a quick, easy draw while also pointing the weapon's muzzle slightly behind the user. It has a top thumb break, middle finger release tab, and is fully lined with soft suede to protect the gun's finish. The molded ejection port detent only allows for a rearward weapon release.</LongDescription>
+<ImageFileSmall>ProductImages/SAFA/Small/SF0705.png</ImageFileSmall>
+<SmallImageAlternateText>0705 SSIII Low-Ride Holster</SmallImageAlternateText>
+<ImageFileMedium>ProductImages/SAFA/Medium/SF0705.png</ImageFileMedium>
+<MediumImageAlternateText>0705 SSIII Low-Ride Holster</MediumImageAlternateText>
+<QuantityOnHand>0</QuantityOnHand>
+</KrollDealerCatalogProductExport>
+</KrollDealerCatalogProductExport>
+<KrollDealerCatalogProductExport>
+<SKU>12895740903XL</SKU>
+<Manufacturer>UNDER ARMOUR</Manufacturer>
+<ProductTypeName>Product Variation</ProductTypeName>
+<Category>Pants &amp; Legwear</Category>
+<ParentSKU>1289574</ParentSKU>
+<ProductName>HG ARMOUR 2.0 3/4 LEGGING</ProductName>
+<ListPrice>32.0000000000</ListPrice>
+<Cost>19.2000000000</Cost>
+<MAPPrice>32.0000000000</MAPPrice>
+<UPCCode>190086863399</UPCCode>
+<ManufacturerPartNumber>12895740903XL</ManufacturerPartNumber>
+<ShippingWeight>1.0000000000</ShippingWeight>
+<ShippingLength>0.0000000000</ShippingLength>
+<ShippingWidth>0.0000000000</ShippingWidth>
+<ShippingHeight>0.0000000000</ShippingHeight>
+<CanDropShip>false</CanDropShip>
+<IsHazardousMaterial>0</IsHazardousMaterial>
+<RestrictionAgreement>None</RestrictionAgreement>
+<CountryOfOrigin />
+<ShortDescription>Ultra-tight, second-skin fit for a locked-in feel.</ShortDescription>
+<LongDescription>Tough, lightweight HeatGear® fabric, with all the performance benefits of UA Compression, Stretch-mesh gusset &amp; inseam panels deliver strategic ventilation, Updated ergonomic design keeps seams off high abrasion areas &amp; increases durability, 4-way stretch construction moves better in every direction. Material wicks sweat &amp; dries really fast, Anti-odor technology prevents the growth of odor-causing microbes. Wider, 2" Engineered elastic waistband, Inseam: 21", 56% Nylon/40% Polyester/4% Elastane.</LongDescription>
+<ImageFileSmall>ProductImages/UA/Small/1289574.png</ImageFileSmall>
+<SmallImageAlternateText>HG ARMOUR 2.0 3/4 LEGGING</SmallImageAlternateText>
+<ImageFileMedium>ProductImages/UA/Medium/1289574.png</ImageFileMedium>
+<MediumImageAlternateText>HG ARMOUR 2.0 3/4 LEGGING</MediumImageAlternateText>
+<QuantityOnHand>0</QuantityOnHand>
+</KrollDealerCatalogProductExport>
+</KrollDealerCatalogProductExport>
+<KrollDealerCatalogProductExport>
+<SKU>BH-37CL20RG</SKU>
+<Manufacturer>BLACKHAWK!</Manufacturer>
+<ProductTypeName>Product Variation</ProductTypeName>
+<Category>Radio</Category>
+<ParentSKU>S.T.R.I.K.E Radio Pouch</ParentSKU>
+<ProductName>Blackhawk - S.T.R.I.K.E. Radio Pouch</ProductName>
+<ListPrice>41.9500000000</ListPrice>
+<Cost>23.2800000000</Cost>
+<MAPPrice>0.0000000000</MAPPrice>
+<UPCCode>648018216640</UPCCode>
+<ManufacturerPartNumber>37CL20RG</ManufacturerPartNumber>
+<ShippingWeight>0.4000000000</ShippingWeight>
+<ShippingLength>0.0000000000</ShippingLength>
+<ShippingWidth>0.0000000000</ShippingWidth>
+<ShippingHeight>0.0000000000</ShippingHeight>
+<CanDropShip>false</CanDropShip>
+<IsHazardousMaterial>0</IsHazardousMaterial>
+<RestrictionAgreement>None</RestrictionAgreement>
+<CountryOfOrigin />
+<ShortDescription>Blackhawk - Strike Radio Pouch&lt;br&gt;Color: Ranger Green</ShortDescription>
+<LongDescription>Holds 1 Single MBITR Radio&lt;br&gt;
+&lt;br&gt;
+Choose between Speed Clip and MOLLE mount&lt;br&gt;
+&lt;br&gt;
+Check out the Speed Clip vs. MOLLE mounting video on the Videos tab</LongDescription>
+<ImageFileSmall>ProductImages/BH/Small/S.T.R.I.K.ERadioPouch.png</ImageFileSmall>
+<SmallImageAlternateText>Blackhawk - S.T.R.I.K.E. Radio Pouch</SmallImageAlternateText>
+<ImageFileMedium>ProductImages/BH/Medium/S.T.R.I.K.ERadioPouch.png</ImageFileMedium>
+<MediumImageAlternateText>Blackhawk - S.T.R.I.K.E. Radio Pouch</MediumImageAlternateText>
+<QuantityOnHand>0</QuantityOnHand>
+</KrollDealerCatalogProductExport>
+</KrollDealerCatalogProductExport>
+<KrollDealerCatalogProductExport>
+<SKU>6280-8312-262</SKU>
+<Manufacturer>SAFARILAND</Manufacturer>
+<ProductTypeName>Product Variation</ProductTypeName>
+<Category>Duty</Category>
+<ParentSKU>SAFA-6280</ParentSKU>
+<ProductName>Mid-Ride Level II SLS Duty Holster</ProductName>
+<ListPrice>194.0000000000</ListPrice>
+<Cost>119.1600000000</Cost>
+<MAPPrice>155.2000000000</MAPPrice>
+<UPCCode>781606969952</UPCCode>
+<ManufacturerPartNumber>6280-8312-262</ManufacturerPartNumber>
+<ShippingWeight>1.0000000000</ShippingWeight>
+<ShippingLength>0.0000000000</ShippingLength>
+<ShippingWidth>0.0000000000</ShippingWidth>
+<ShippingHeight>0.0000000000</ShippingHeight>
+<CanDropShip>false</CanDropShip>
+<IsHazardousMaterial>0</IsHazardousMaterial>
+<RestrictionAgreement>None</RestrictionAgreement>
+<CountryOfOrigin />
+<ShortDescription>Mid-Ride Level II SLS Duty Holster&lt;br&gt;Finish: Nylon Look&lt;br&gt;Gun Fit: Glock 22 with Beamshot Model 8100 (4.5" bbl)&lt;br&gt;Hand: Left</ShortDescription>
+<LongDescription>&lt;p&gt;
+The Safariland Model 6280 holster is the base model of Self Locking System (SLS™) series of holsters. It includes a unique rotating hood design. This
+holster also features a Universal Belt Loop that mounts on a 2" or 2.25" Duty Belt. With no snap, the Safariland 6280 holster’s SLS™ design allows for a
+smoother single-motion draw and greater protection against attempted weapon takeaways. The hood can only be released by being simultaneously pushed down
+and rotated forward and actually becomes more secure when upward force is applied. It is also far less likely to release accidentally than conventional
+thumb break snaps. The 6280 holster features a tensioning device, which, when firmly adjusted becomes a Level III Retention™ holster.
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+SLS (Self Locking System)
+&lt;/li&gt;
+&lt;li&gt;
+Mid-Ride position allows for excellent weapon protection and quick easy draw
+&lt;/li&gt;
+&lt;li&gt;
+Top draw and straight drop cant
+&lt;/li&gt;
+&lt;li&gt;
+For pistols or revolvers
+&lt;/li&gt;
+&lt;li&gt;
+Level III with optional Sentry installed or tension screw properly adjusted
+&lt;/li&gt;
+&lt;li&gt;
+Level IV with optional Sentry installed and tension screw properly adjusted
+&lt;/li&gt;
+&lt;li&gt;
+Available Plain Black, Basket Weave, Hi-Gloss, or Nylon Look finishes
+&lt;/li&gt;
+&lt;/ul&gt;</LongDescription>
+<ImageFileSmall>ProductImages/SAFA/Small/SAFA-6280.png</ImageFileSmall>
+<SmallImageAlternateText>Mid-Ride Level II SLS Duty Holster</SmallImageAlternateText>
+<ImageFileMedium>ProductImages/SAFA/Medium/SAFA-6280.png</ImageFileMedium>
+<MediumImageAlternateText>Mid-Ride Level II SLS Duty Holster</MediumImageAlternateText>
+<QuantityOnHand>0</QuantityOnHand>
+</KrollDealerCatalogProductExport>
+</KrollDealerCatalogProductExport>
+<KrollDealerCatalogProductExport>
+<SKU>306-7-4</SKU>
+<Manufacturer>SAFARILAND</Manufacturer>
+<ProductTypeName>Product Variation</ProductTypeName>
+<Category>Light Holders</Category>
+<ParentSKU>SAFA-306</ParentSKU>
+<ProductName>306 Mini Flashlight Holster</ProductName>
+<ListPrice>29.7500000000</ListPrice>
+<Cost>16.4500000000</Cost>
+<MAPPrice>0.0000000000</MAPPrice>
+<UPCCode>781607158232</UPCCode>
+<ManufacturerPartNumber>306-7-4</ManufacturerPartNumber>
+<ShippingWeight>0.2000000000</ShippingWeight>
+<ShippingLength>0.0000000000</ShippingLength>
+<ShippingWidth>0.0000000000</ShippingWidth>
+<ShippingHeight>0.0000000000</ShippingHeight>
+<CanDropShip>true</CanDropShip>
+<IsHazardousMaterial>0</IsHazardousMaterial>
+<RestrictionAgreement>None</RestrictionAgreement>
+<CountryOfOrigin />
+<ShortDescription>Mini Flashlight Holster - Model 306&lt;br&gt;Finish: Basket Weave&lt;br&gt;Flashlight: Streamlight Strion</ShortDescription>
+<LongDescription>&lt;p&gt;MINI FLASH CARRIER 6P/3R BW&lt;/p&gt;</LongDescription>
+<ImageFileSmall>ProductImages/SAFA/Small/SAFA-306.png</ImageFileSmall>
+<SmallImageAlternateText>306 Mini Flashlight Holster</SmallImageAlternateText>
+<ImageFileMedium>ProductImages/SAFA/Medium/SAFA-306.png</ImageFileMedium>
+<MediumImageAlternateText>306 Mini Flashlight Holster</MediumImageAlternateText>
+<QuantityOnHand>10</QuantityOnHand>
+</KrollDealerCatalogProductExport>
+</KrollDealerCatalogProductExport>
+<KrollDealerCatalogProductExport>
+<SKU>GG-892-2</SKU>
+<Manufacturer>GOULD &amp; GOODRICH</Manufacturer>
+<ProductTypeName>Product Variation</ProductTypeName>
+<Category>Holsters</Category>
+<ParentSKU>GG-892-Holster</ParentSKU>
+<ProductName>GOULD AND GOODRICH -PHOENIX NYLON FLASHLIGHT CASE</ProductName>
+<ListPrice>29.7000000000</ListPrice>
+<Cost>17.2800000000</Cost>
+<MAPPrice>0.0000000000</MAPPrice>
+<UPCCode>768574212136</UPCCode>
+<ManufacturerPartNumber>892-2</ManufacturerPartNumber>
+<ShippingWeight>0.2000000000</ShippingWeight>
+<ShippingLength>0.0000000000</ShippingLength>
+<ShippingWidth>0.0000000000</ShippingWidth>
+<ShippingHeight>0.0000000000</ShippingHeight>
+<CanDropShip>false</CanDropShip>
+<IsHazardousMaterial>0</IsHazardousMaterial>
+<RestrictionAgreement>None</RestrictionAgreement>
+<CountryOfOrigin />
+<ShortDescription>Clip on belt or pants to wear inside or outside of pants, or slide belt through belt slots. Spring steel clip is removable. Genuine leather. Suede lining helps protect gun finish. Fits belts up to 1-3/4 in.</ShortDescription>
+<LongDescription />
+<ImageFileSmall>ProductImages/GG/Small/GG-892-Holster.png</ImageFileSmall>
+<SmallImageAlternateText>GOULD AND GOODRICH -PHOENIX NYLON FLASHLIGHT CASE</SmallImageAlternateText>
+<ImageFileMedium>ProductImages/GG/Medium/GG-892-Holster.png</ImageFileMedium>
+<MediumImageAlternateText>GOULD AND GOODRICH -PHOENIX NYLON FLASHLIGHT CASE</MediumImageAlternateText>
+<QuantityOnHand>0</QuantityOnHand>
+</KrollDealerCatalogProductExport>
+</KrollDealerCatalogProductExport>
+<KrollDealerCatalogProductExport>
+<SKU>168UH</SKU>
+<Manufacturer>UNCLE HENRY</Manufacturer>
+<ProductTypeName>Standard Product</ProductTypeName>
+<ParentSKU />
+<Category>Fixed Knives</Category>
+<ParentSKU />
+<ProductName>UNCLE HENRY WALLEYE</ProductName>
+<ListPrice>26.7800000000</ListPrice>
+<Cost>12.0300000000</Cost>
+<MAPPrice>0.0000000000</MAPPrice>
+<UPCCode>044356208604</UPCCode>
+<ManufacturerPartNumber>168UH</ManufacturerPartNumber>
+<ShippingWeight>0.3000000000</ShippingWeight>
+<ShippingLength>0.0000000000</ShippingLength>
+<ShippingWidth>0.0000000000</ShippingWidth>
+<ShippingHeight>0.0000000000</ShippingHeight>
+<CanDropShip>false</CanDropShip>
+<IsHazardousMaterial>0</IsHazardousMaterial>
+<RestrictionAgreement>None</RestrictionAgreement>
+<CountryOfOrigin />
+<ShortDescription>UNCLE HENRY WALLEYE</ShortDescription>
+<LongDescription>Uncle Henry Walleye
+fillet knife w/ leather sheath</LongDescription>
+<ImageFileSmall>ProductImages/TAYL/Small/168UH.png</ImageFileSmall>
+<SmallImageAlternateText>UNCLE HENRY WALLEYE</SmallImageAlternateText>
+<ImageFileMedium>ProductImages/TAYL/Medium/168UH.png</ImageFileMedium>
+<MediumImageAlternateText>UNCLE HENRY WALLEYE</MediumImageAlternateText>
+<QuantityOnHand>0</QuantityOnHand>
+</KrollDealerCatalogProductExport>
+</KrollDealerCatalogProductExport>
